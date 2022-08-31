@@ -16,21 +16,27 @@ public class TicketBookingService {
     public TicketBooking addBooking(TicketBooking ticketBooking){
         return null;
     }
+
     public TicketBooking updateBooking(TicketBooking ticketBooking){
         return null;
     }
+
     public TicketBooking cancelBooking(TicketBooking ticketBooking){
         return null;
     }
+
     public List<TicketBooking> showAllBooking(Integer movieId){
         return null;
     }
+
     public List<TicketBooking> showAllBooking(LocalDate date){
         return null;
     }
+
     public List<TicketBooking> showBookingList(Integer showId){
         return null;
     }
+
     public Double calculateTotalcost(Integer bookingId){
         return null;
     }

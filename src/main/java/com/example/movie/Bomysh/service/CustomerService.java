@@ -23,9 +23,11 @@ public class CustomerService {
     public Customer deleteCustomer(Customer customer){
         return null;
     }
+
     public Customer viewCustomer(Integer custId){
         return null;
     }
+
     public List<Customer> viewAllCustomers(Integer movieId){
         return null;
     }

@@ -17,15 +17,19 @@ public class MovieService {
     public Movie addMovie(Movie movie){
         return null;
     }
+
     public Movie updateMovie(Movie movie){
         return null;
     }
+
     public Movie deleteMovie(Movie movie){
         return null;
     }
+
     public Movie viewMovie(Integer movieId){
         return null;
     }
+
     public List<Movie> viewAllMovieList(){
         return null;
     }
@@ -33,6 +37,7 @@ public class MovieService {
     public List<Movie> viewMovieList(Integer theatreId){
         return null;
     }
+
     public List<Movie> viewMovieList(LocalDate date){
         return null;
     }

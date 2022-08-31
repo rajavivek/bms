@@ -13,9 +13,11 @@ public class SeatService {
     public Seat bookSeat(Seat seat){
         return  null;
     }
+
     public Seat cancelSeatBooking(Seat seat){
         return null;
     }
+
     public Seat blockSeat(Seat seat){
         return null;
     }

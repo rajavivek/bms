@@ -20,18 +20,23 @@ public class ShowService {
     public Show removeShow(Show show){
         return null;
     }
+
     public Show updateShow(Show show){
         return null;
     }
+
     public Show viewShow(Show show){
         return null;
     }
+
     public List<Show> viewShow(Integer theatreId){
         return null;
     }
+
     public List<Show> viewShow(LocalDate date){
         return null;
     }
+
     public List<Show> viewAllShows(){
         return null;
     }
